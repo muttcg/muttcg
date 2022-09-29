@@ -10,7 +10,7 @@ I'm a Software Developer at https://www.gbif.org/[GBIF], an international networ
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=muttcg&include_all_commits=true&hide_border=true&count_private=true&disable_animations=true&custom_title=Github%20Status"
+      src="https://github-readme-stats.vercel.app/api?username=muttcg&include_all_commits=true&hide_border=true&count_private=true&disable_animations=true"
     />
   </a>
 </p>
