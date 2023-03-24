@@ -1,6 +1,6 @@
 == 👋 Hi!
 
-I'm a Software Developer at https://www.gbif.org/[GBIF], an international network and data infrastructure funded by the world's governments and aimed at providing anyone, anywhere, open access to data about all types of life on Earth.
+I am a senior level Software Developer with over 10 years of experience in the industry, currently employed at https://www.gbif.org/[GBIF] (Global Biodiversity Information Facility). https://www.gbif.org/[GBIF] is an international network and data infrastructure funded by the world's governments and aimed at providing anyone, anywhere, open access to data about all types of life on Earth.
 
 ++++
 <p align="center">
