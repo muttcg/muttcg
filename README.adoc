@@ -2,7 +2,7 @@
 
 I am a senior-level software developer with over 12 years of experience in the industry. Currently, I am employed at the https://www.gbif.org/[Global Biodiversity Information Facility] - as a backend/data developer, where I am helping to improve the data ingestion platform and the services associated with it.
 
-https://www.gbif.org/[The Global Biodiversity Information Facility] is an online archive that brings together global biodiversity data from over 84,000 datasets published by thousands of contributors, containing more than 2.4 billion records. These contributors include natural history museums like the Smithsonian and citizen science sites such as iNaturalist, eBird, Danmarks svampeatlas, and others. GBIF plays a critical role in monitoring biodiversity and informing conservation efforts
+https://www.gbif.org/what-is-gbif[The Global Biodiversity Information Facility] is an online archive that brings together global biodiversity data from over 84,000 datasets published by thousands of contributors, containing more than 2.4 billion records. These contributors include natural history museums like the Smithsonian and citizen science sites such as iNaturalist, eBird, Danmarks svampeatlas, and others. GBIF plays a critical role in monitoring biodiversity and informing conservation efforts
 
 ++++
 <p align="center">
