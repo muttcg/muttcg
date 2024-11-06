@@ -1,3 +1,3 @@
 == 👋 Hi!
 
-I am a software developer with over 13 years of experience in the industry. Currently, I am employed at the https://www.gbif.org/[Global Biodiversity Information Facility] - as a backend/data developer, where I am helping to improve the data ingestion platform and the services associated with it. Most of the GBIF codebase is open-sourced and licensed under Apache 2.0
+I am a software developer with over 13 years of experience in the industry. Currently, I am employed at the https://www.gbif.org/[Global Biodiversity Information Facility] - as a backend/data developer, where I am helping to improve the data ingestion platform and the services associated with it. Most of the https://github.com/gbif[GBIF codebase is open-sourced] and licensed under Apache 2.0
